@@ -9,4 +9,11 @@ The first 3 atoms can also be changed and selected from a list of atoms.
 
 A 3-D plot of the molecule is also displayed.
 
-Link to drive:
+Flowchart: <br>
+![Flowchart](Flowchart.png)
+
+Example: <br>
+![Example](Mol.png)
+
+
+Link to drive: https://drive.google.com/file/d/1Dlqdf5oxeXXQNIUPa29V2wWbxxHi1o15/view?usp=drive_link
